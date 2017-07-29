@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "outFile": "js/App.js",
+        "watch": true
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "include": [
+        "ts/Rectangle.ts",
+        "ts/Vector2.ts",
+        "ts/Car.ts",
+        "ts/Frog.ts",
+        "ts/Game.ts"
+    ]
+}
